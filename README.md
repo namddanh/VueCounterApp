@@ -28,3 +28,4 @@ npm run dev
 npm run build
 ```
 # VueCounterApp recreating jsCounterApp but using Vue
+introduction to Vue, state, event handler
